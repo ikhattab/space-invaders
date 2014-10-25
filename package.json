@@ -1,0 +1,13 @@
+{
+  "name": "spaceInvaders",
+  "version": "0.0.0",
+  "description": "Simple html5 game",
+  "scripts": {
+    "start": "node_modules/coffee-script/bin/coffee -wc game.coffee"
+  },
+  "author": "Ihab Khattab <ikhattab.mail@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "coffee-script": "^1.8.0"
+  }
+}
